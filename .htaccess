@@ -1,0 +1,5 @@
+php_value display_errors 1
+Options -Indexes
+<IfModule mod_headers.c>
+Header always set X-Frame-Options SAMEORIGIN
+</IfModule>
