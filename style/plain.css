@@ -1,0 +1,168 @@
+0body {
+    color: #000000;
+    background-color: #FFFFFF;
+    background: #FFFFFF;
+    text-align: center;
+    font-family: "Helvetica", sans-serif;
+}
+
+body#left {
+    text-align: left;
+}
+
+body#center {
+    text-align: center;
+}
+
+#doxviewer {
+    color: #000000;
+    background: #FFFFFF;
+    font-family: "Tahoma", sans-serif;
+    font-size: 12pt;
+    text-align: left;
+}
+
+}
+h1 {
+    border-radius: 10px;
+    background: #FFFFFF;
+    width: 98%;
+    color: #000000;
+    padding: .3em;
+    padding-left: none;
+    padding-right: none;
+    text-shadow: 0px 2px 0px #000;
+    text-align: center;
+}
+
+textarea {
+    font-family: "Droid Sans Mono", "Consolas", monospace;
+    background: #FFFFFF;
+    color: #000000;
+    width: 99%;
+    height: 94%;
+    border: none;
+}
+
+textarea#dox {
+    width: 700px;
+    height: 300px;
+    border: 1px solid #000000;
+    font-family: "Droid Sans Mono", "Consolas", monospace;
+    padding: 2px;
+    border-radius: 7px;
+    background-color: #FFFFFF;
+    color: #fff;
+}
+
+textarea#dox:focus {
+    box-shadow: 0px 0px 5px #fff;
+    background-color:#FFFFFF;
+}
+
+input[type="text"] {
+    font-family: "Helvetica", sans-serif;
+    background-color: #FFFFFF;
+    border-radius: 7px;
+    color: #fff;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    padding: 5px;        
+}
+input[type="text"]:focus {
+    box-shadow: 0px 0px 5px #fff;
+    background-color:#FFFFFF;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 20px 0;
+    empty-cells: hide;
+    table-layout: fixed;
+}
+
+p.contact {
+    text-align: center;
+}
+
+p.left {
+    text-align: left;
+}
+
+ul.left {
+    text-align: left;
+}
+
+/*a:link {
+    color: #00CCCC;
+}
+
+a:visited {
+    color: #FFF;
+    position: relative;
+    top: 1px;
+    text-shadow: 0px 0px 3px #fff;
+    font-size: 12pt;
+    font-family: "Helvetica", sans-serif;
+}
+
+a:hover {
+    color: #00FFFF;
+    text-shadow: 0px 0px 10px #0033cc;
+}
+
+a:active {
+    color: #fff;
+    position: relative;
+    top: 1px;
+    text-shadow: 0px 0px 3px #fff;
+}
+*/
+
+div.doxviewer {
+    text-align: left;
+}
+
+div.doxheader {
+    font-size: 75%;
+}
+
+div.verified {
+    color: #0F0;
+}
+
+div.ssn {
+    color: #F96D5E;
+}
+
+div.rip {
+    color: #C0C0C0;
+}
+
+div.cabincrew{
+    color: #FF0;
+}
+
+div.doxbin {
+    color: #00BFFF;
+}
+
+div.doxcake {
+    color: #FF0;
+}
+
+div.ncf {
+    color: #FF0;
+}
+
+div.pinkmeth {
+    color: #FFB6C1;
+}
+
+div.rape {
+    color: #90EE90;
+}
+
+div.ugnazi {
+    color: #FF0;
+}
